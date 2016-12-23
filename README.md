@@ -1,4 +1,4 @@
-# Academic-Assignment-DatabaseSharding-and-Caching
+# Database Sharding and Caching
 
 Assignment  Description:
 
